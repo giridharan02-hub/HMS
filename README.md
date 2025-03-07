@@ -1,2 +1,2 @@
-# HMS
-Hospital Management System
+# Hms
+ Hospital Management System
